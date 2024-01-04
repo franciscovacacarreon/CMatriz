@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/31 15:21:46.000.924,=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/12/31 15:21:46.000.854,=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/12/31 15:22:13.000.062,C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.cpp=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/12/31 15:22:13.000.062,C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.dfm=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/12/31 15:22:13.000.062,C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.h=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/12/31 15:22:17.000.872,=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/12/31 15:22:26.000.931,C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UMatriz.h=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/12/31 15:22:26.000.931,C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UMatriz.cpp=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/12/31 15:23:02.000.907,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\Clases\CMatriz\UMatriz.cpp=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UMatriz.cpp</Transaction>
+    <Transaction>2023/12/31 15:23:02.000.907,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\Clases\CMatriz\UMatriz.h=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UMatriz.h</Transaction>
+    <Transaction>2023/12/31 15:23:07.000.645,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\Clases\CMatriz\UPrincipal.dfm=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.dfm</Transaction>
+    <Transaction>2023/12/31 15:23:07.000.645,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\Clases\CMatriz\UPrincipal.h=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.h</Transaction>
+    <Transaction>2023/12/31 15:23:07.000.645,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\Clases\CMatriz\UPrincipal.cpp=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.cpp</Transaction>
+    <Transaction>2023/12/31 15:23:10.000.222,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\Clases\CMatriz\Project1.cbproj=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

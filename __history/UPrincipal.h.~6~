@@ -1,0 +1,48 @@
+//---------------------------------------------------------------------------
+
+#ifndef UPrincipalH
+#define UPrincipalH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+
+#include "UMatriz.h"
+#include <Vcl.Grids.hpp>
+//---------------------------------------------------------------------------
+class TForm1 : public TForm
+{
+__published:	// IDE-managed Components
+	TStringGrid *SGMatrizA;
+	TLabel *Matriz;
+	TEdit *EFila;
+	TEdit *EColumna;
+	TLabel *Label1;
+	TLabel *Label2;
+	TButton *Button1;
+	TStringGrid *SGMatrizB;
+	TLabel *Label3;
+	TButton *Button2;
+	TButton *Button3;
+	TButton *Button4;
+	TButton *Button5;
+	TLabel *Label4;
+	TLabel *Label5;
+	TEdit *EFila2;
+	TEdit *EColumna2;
+	void __fastcall Button1Click(TObject *Sender);
+	void __fastcall Button2Click(TObject *Sender);
+	void __fastcall Button3Click(TObject *Sender);
+	void __fastcall Button5Click(TObject *Sender);
+private:	// User declarations
+public:		// User declarations
+	__fastcall TForm1(TComponent* Owner);
+
+	void cargarSGMatriz(TStringGrid *SG, CMatriz *matriz);
+	void mostrarSGMatriz(TStringGrid *SG, CMatriz *matriz);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm1 *Form1;
+//---------------------------------------------------------------------------
+#endif
